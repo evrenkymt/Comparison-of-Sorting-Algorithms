@@ -1,1 +1,11 @@
 # Comparison-of-Sorting-Algorithms
+- Aim of the repository is comparing several well-known sorting algorithms for given selection problem.
+- Comparison made by **empirical experiment** based on thier **time complexities**.
+- Algorithms:
+-        Sort all elements with insertion-sort and return k'th element.
+-        Sort all elements with merge-sort and return k'th element.
+-        Sort all elements with quick-sort and return k'th element.
+-        Partial Selection-sort
+-        Partial Heapsort
+-        Quick-select (not sorted list
+-        Quick-select (median-of-three pivot selection
